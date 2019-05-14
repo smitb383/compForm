@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300i,400,700');
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+section {
+    width: 70%;
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 30px;
+    border: 1px solid lightgrey;
+    background-color: #fafafa;
+
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 100px;
+    font-size: 50px;
+    color: grey;
+
+}
+
+
+h2 {
+    text-align: center;
+}
+
+form {
+    margin: 0 auto;
+}
+
+button {
+    padding: 8px;
+    width: 30%;
+
+    display: block;
+
+}
+
+/* button:hover {
+    background-color: grey;
+    color: white;
+
+}
+
+#pokiFamily {
+    /border: 1px solid red; 
+    justify-content: center;
+    display: flex;
+} */
+
+/* #poki {
+   
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+    padding: 2em;
+    justify-self: center;
+}
+
+#pokiName {
+    color: grey;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+  
+    align-items: center;
+
+}
+
+#families {
+    margin-right: 20px;
+    font-size: 20px;
+    box-sizing: content-box;
+
+
+}
+
+.option {
+    font-size: 20px;
+    border: 1px solid blue;
+    display: block;
+    white-space: pre;
+    min-height: 2em;
+    padding: 10px;
+}  */

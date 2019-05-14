@@ -1,0 +1,7 @@
+#row {
+    display: flex;
+}
+
+p {
+    padding-left: 2em;
+}
